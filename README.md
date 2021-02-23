@@ -1,2 +1,4 @@
-# Team8_IMSE_785
-Team 8 - IMSE 785 A Spring 2021
+# Team8_HelloWorld
+Team 8 - Hello World
+
+Kymberly Rundel
